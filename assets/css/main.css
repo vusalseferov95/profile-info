@@ -1,0 +1,23 @@
+.container {
+    background-color:rgb(222, 252, 243);
+}
+
+.box {
+    border-radius: 25px;
+    background-color: #fff;
+}
+
+.profile-info .div .p {
+    color: #1C2B62;
+}
+
+.show-more {
+    width: 120px;
+    height: 44px;
+    border: 2px solid #C4CADF;
+}
+
+.show-more:hover {
+    background-color: #008CBA;
+    color: white;
+}
